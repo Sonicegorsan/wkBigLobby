@@ -1,0 +1,5 @@
+cmake-*
+.idea/
+bundle/wkBigLobby.dll
+wkBigLobby/
+build/
