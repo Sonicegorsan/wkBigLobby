@@ -1,0 +1,247 @@
+[
+  {
+    "path": ".github/workflows/msbuild.yml",
+    "bytes": 2662,
+    "sha256": "ca4d51abd55314e1e694fd676b3c804ef4738b4a5efe284a19d82024f98b4569",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 56,
+    "sha256": "0f8d7d497c339beb1d8e491905004ed2179732bf78a19f63c6a37af6c2f87fbe",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": ".gitmodules",
+    "bytes": 398,
+    "sha256": "80e04a5133b01e4931f4629529fa896294bf46b44f981bb8e0181b744fd49099",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "CMakeLists.txt",
+    "bytes": 1737,
+    "sha256": "63380129187c58b121584cd7cf0884f19779138a724d0881ac69ce16909d3007",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 473,
+    "sha256": "bd6059c1689534cb0b608255072d4226ce4d720407c366bc27f26883b747ef00",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "bundle/wkBigLobby.ini",
+    "bytes": 94,
+    "sha256": "ffb7ba196d3e0a5321728a3ee8763e4ba135dc459ead5beb4c264ae87272ccd6",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "cmake/git.cc.in",
+    "bytes": 828,
+    "sha256": "fb99ee689d8df0232c4b6d9b75212c9273d33a706a44821b70706b760eabb974",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "cmake/git.h",
+    "bytes": 930,
+    "sha256": "94fbbc982b619824c56e0350c6e2c3db0f4443be02d6f7e44d721c751febab88",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "cmake/git_watcher.cmake",
+    "bytes": 10800,
+    "sha256": "341403790cef84e8fe3125dc9e87bc8ab949b6f6ea195a0d52accbd331d8418e",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "cmake/version.h.in",
+    "bytes": 259,
+    "sha256": "8ea49604c785fde91f50dead8bb372b2a658d950bcb3fd3c6a031e5aa3fdecf2",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "ida/idaxrefs.py",
+    "bytes": 836,
+    "sha256": "5262d06b3170ca8b71e53e7c5f4226b0b1822b960dada2b0119e65b7c73420af",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Base64.h",
+    "bytes": 5702,
+    "sha256": "60891c779b046eb2c877f606ffdba1095fab61a69a29c9f82dd32ef1f2adada0",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/md5.h",
+    "bytes": 13525,
+    "sha256": "f77b8e636ba947b5d6ecd5d691c587922245edee72575c861e18694de36482a8",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "licenses/asmjit.txt",
+    "bytes": 862,
+    "sha256": "a80880a56c0f7f1e8cf838544ff193d30e66dd562c117e07acba58c9063c62f9",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "licenses/capstone.txt",
+    "bytes": 1687,
+    "sha256": "65e9ed46a59976eda8f5bd1ea79a680dea38dd299c760bc9a8d87a764ef5029b",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "licenses/hacklib.txt",
+    "bytes": 382,
+    "sha256": "b0a5999d61174d86815ad895a4ad23c0cb78b882c17e3f5a8802a10d15edaed0",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "licenses/json.txt",
+    "bytes": 1404,
+    "sha256": "1afde928f1a24c82b28f3e7c82eeb8fde6b8423867bd6df66d30dbac9b8e5850",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "licenses/polyhook2.txt",
+    "bytes": 1071,
+    "sha256": "c0dc0c2a852d986cd736c8bc12f45bf7062179fd84bce5154cfacf1cca228aec",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "licenses/zydis.txt",
+    "bytes": 1122,
+    "sha256": "5bdf8c279bd02034079cad434fa4a411aea383426c96d2dc8bc9732cdd448ddb",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "readme.md",
+    "bytes": 177,
+    "sha256": "0ae2d0f565192beca749d028a8f4221f8bafee03831839cb65d8ef7af2962b62",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "resource.rc.in",
+    "bytes": 1004,
+    "sha256": "e23a6357b9b06b9bd2e5a01cf639abfbedfe25919789308b52578aaa69c92d78",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/Config.cpp",
+    "bytes": 3103,
+    "sha256": "5dbff9a6983e412d99fc48eaa454a8deb4b75820cf54c6b33afd088edb9fdad3",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/Config.h",
+    "bytes": 838,
+    "sha256": "45b1156135bf824e43e6377e909ffe93c18d1a45417c354b1095147e4fe1ff74",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/Debugf.h",
+    "bytes": 228,
+    "sha256": "3330e43a723582a8d94f496def72bbf225ba3fcf1a7a45e56caae27c7456df82",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/DevConsole.cpp",
+    "bytes": 1439,
+    "sha256": "2f7f1efa2e1392d9afc2eadf2f8f597550f19830d88de49f4fd029c2def876d3",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/DevConsole.h",
+    "bytes": 153,
+    "sha256": "78cc4c5de262fd2207269f3ce5b6e2e58a2bf547bd109ca5f15040efa476a6a6",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/Hooks.cpp",
+    "bytes": 5843,
+    "sha256": "9bced38947176c0a58c896a5ab3a36bcfa18320e305a0e8b5d172741d19e8f4c",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/Hooks.h",
+    "bytes": 2733,
+    "sha256": "9439836571f0663d5211d6e3d04da6c87d5ba6663eae0604acffa7da3c72cece",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/LobbyChat.cpp",
+    "bytes": 2075,
+    "sha256": "fd5f1fcd0a884659ea4a014e06fe60d1d44195c16c0d743b69c70ce032256e4e",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/LobbyChat.h",
+    "bytes": 622,
+    "sha256": "691428891ff11054087fa90ba46dcb69f47942abc533832be63b5e6bb51fbe2d",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/SlotList.cpp",
+    "bytes": 13897,
+    "sha256": "025d2d78b28898a2c9b46fc59396be58c8d16620ed12cb84b215c76864f4dc22",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/SlotList.h",
+    "bytes": 2126,
+    "sha256": "3c9f429a5224a2b1093e4ecb4d18052414a4cf6c90669154877daeca76b0a90c",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/Utils.cpp",
+    "bytes": 3103,
+    "sha256": "a42d40764b289be717fc48bb09e9d97bf3705ade80468605697d758cad634194",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/Utils.h",
+    "bytes": 708,
+    "sha256": "7ead7acadd03273bc581d578d35ed1033d4371bf5b51cb96381e059282d22455",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/dllmain.cpp",
+    "bytes": 1601,
+    "sha256": "d4ce286d440d79acf6c957507fc9e7a3b61f1aaba9e8822ac640c75e9efa4d81",
+    "archive_mode": "0o644",
+    "executable": false
+  }
+]
